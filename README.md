@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Anthony O. JOboy (@Xand3rxx)
+- 👋 Hi, I’m Anthony O. Joboy (@Xand3rxx)
 - 👀 I’m interested in solving problems using technology.
 - 🌱 I’m currently learning Vue.js.
 - 💞️ I’m looking to collaborate on Laravel, PHP, Vue.js, WordPress projects
