@@ -20,7 +20,7 @@
 ** 🖥️ Workspace Setup**
 
 ![i5-8th-gen](https://img.shields.io/badge/Intel-Core_i5_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![macos-monterey](https://img.shields.io/badge/macos-monterey-brightgreen-0078D6?style=for-the-badge&logo=macos&logoColor=white)
+![macos-monterey](https://img.shields.io/badge/macos-monterey?style=for-the-badge&logo=macos&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 
 *NOTE: Top languages does not indicate my skill level, it's a Github metric of which languages I have the most __**public**__ code on Github*
