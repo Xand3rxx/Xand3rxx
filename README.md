@@ -33,6 +33,13 @@
 
 [![Xand3rxx's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Xand3rx&layout=compact)](https://github.com/Xand3rxx/github-readme-stats)
 
+## 📈 Stats
+
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Xand3rxx&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
+    <br />
+</div>
+
 ## 🔗 Links
 
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/anthony-joboy-aa4b16181/)
