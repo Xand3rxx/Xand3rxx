@@ -19,6 +19,7 @@
 
 ![Xand3rxx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xand3rxx&show_icons=true&theme=radical)
 
+[![Xand3rxx's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Xand3rx)](https://github.com/Xand3rxx/github-readme-stats)
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Xand3rx&layout=compact" alt="Xand3rx's Stats" />
 
 <!---
