@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Anthony O. Joboy (@Xand3rxx) A Full Stack Web Developer with honed skills in HTML, CSS, JQUERY, Vue.js PHP, Laravel...
+- 👋 Hi, I’m Anthony O. Joboy (@Xand3rxx) A Full Stack Web Developer with honed skills in HTML, CSS, jQuery, Vue.js PHP, Laravel...
 - 👀 I’m interested in solving problems using technology.
 - 🌱 I’m currently learning Vue.js.
 - 💞️ I’m looking to collaborate on Laravel, PHP, Vue.js, WordPress projects
@@ -16,6 +16,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> -->
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> -->
+
+![Xand3rxx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xand3rxx&show_icons=true&theme=radical)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Xand3rx&layout=compact" alt="Xand3rx's Stats" />
 
