@@ -17,6 +17,18 @@
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> -->
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> -->
 
+** 🖥️ Workspace Setup**
+
+![i5-8th-gen](https://img.shields.io/badge/Intel-Core_i5_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![macos-monterey](https://img.shields.io/badge/macos-monterey-brightgreen-0078D6?style=for-the-badge&logo=macos&logoColor=white)
+![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+
+*NOTE: Top languages does not indicate my skill level, it's a Github metric of which languages I have the most __**public**__ code on Github*
+
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xand3rxx&layout=compact&bg_color=0,232526,414345&icon_color=ffffff&title_color=ffffff&text_color=ffffff&line_height=30&v=5" alt="Ra1nbow's Stats" />
+</a>
+
 ![Xand3rxx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xand3rxx&show_icons=true&theme=radical)
 
 [![Xand3rxx's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Xand3rx&layout=compact)](https://github.com/Xand3rxx/github-readme-stats)
