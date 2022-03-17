@@ -26,7 +26,7 @@
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 
 ## 📈 Stats
-*NOTE: Top languages does not indicate my skill level, it's a Github metric of which languages I have the most __**public**__ code on Github*
+*NOTE: My most used languages does not indicate my skill level, it's a Github metric of which languages I have the most __**public**__ code on Github*
 
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xand3rxx&layout=compact&bg_color=0,232526,414345&icon_color=ffffff&title_color=ffffff&text_color=ffffff&line_height=30&v=5" alt="Ra1nbow's Stats" />
