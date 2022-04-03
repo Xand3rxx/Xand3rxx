@@ -46,7 +46,7 @@
 *NOTE: My most used languages do not indicate my skill level, it is a Github metric of which languages I have the most in my __**public repositories**__ on Github*
 
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xand3rxx&layout=compact&bg_color=0,232526,414345&icon_color=ffffff&title_color=ffffff&text_color=ffffff&line_height=30&v=5" alt="Ra1nbow's Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xand3rxx&layout=compact&bg_color=0,232526,414345&icon_color=ffffff&title_color=ffffff&text_color=ffffff&line_height=30&v=5" alt="Xand3rxx's Stats" />
 </a>
 
 ![Xand3rxx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xand3rxx&show_icons=true&theme=radical)
