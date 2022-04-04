@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Anthony O. Joboy (@Xand3rxx) A Full Stack Web Developer with honed skills in HTML, CSS, jQuery, Vue.js PHP, Laravel...
 - 👀 I’m interested in solving problems using technology.
-- 🌱 I’m currently learning Vue.js.
+- 🌱 I’m currently learning Vue.js and MERN Stack, Prisma
 - 💞️ I’m looking to collaborate on Laravel, PHP, Vue.js, WordPress projects
 - 📫 You can reach me on anthonyjoboy2016@gmail.com
 
@@ -51,7 +51,7 @@
 
 ![Xand3rxx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xand3rxx&show_icons=true&theme=radical)
 
-[![Xand3rxx's wakatime stats(Last 7 Days)](https://github-readme-stats.vercel.app/api/wakatime?username=Xand3rx&layout=compact)](https://github.com/Xand3rxx/github-readme-stats)
+[![Xand3rxx's Wakatime Stats(Last 7 Days)](https://github-readme-stats.vercel.app/api/wakatime?username=Xand3rx&layout=compact)](https://github.com/Xand3rxx/github-readme-stats)
 
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Xand3rxx&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
