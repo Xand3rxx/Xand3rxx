@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Anthony O. Joboy (@Xand3rxx) A Full Stack Web Developer with honed skills in HTML, CSS, jQuery, Vue.js PHP, Laravel...
 - 👀 I’m interested in solving problems using technology.
-- 🌱 I’m currently learning Vue.js, Next.js, Prisma, and MERN Stack.
+- 🌱 I’m currently learning Vue.js, React, Next.js, and Prisma.
 - 💞️ I’m looking to collaborate on Laravel, PHP, Vue.js, WordPress projects.
 - 📫 You can reach me on anthonyjoboy2016@gmail.com
 
@@ -20,6 +20,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/next/next.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
 ## 🖥️ Workspace Setup
