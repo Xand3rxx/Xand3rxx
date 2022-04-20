@@ -67,6 +67,10 @@
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/xandapex/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:https://mail.google.com/mail/u/?authuser=anthonyjoboy2016@gmail.com)
 
+## Profile Visitors
+
+![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=Xand3rxx.Xand3rxx)
+
 <!---
 Xand3rxx/Xand3rxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
