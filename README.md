@@ -6,6 +6,7 @@
 - 💞️ I’m looking to collaborate on Laravel, PHP, Vue.js, WordPress projects.
 - 📫 You can reach me on anthonyjoboy2016@gmail.com
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="anthony-joboy-aa4b16181" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ng.linkedin.com/in/anthony-joboy-aa4b16181?trk=profile-badge">Anthony Joboy</a></div>
               
 
