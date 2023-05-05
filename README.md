@@ -57,7 +57,7 @@
 
 ![Xand3rxx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xand3rxx&show_icons=true&theme=radical)
 
-[![Xand3rxx's Wakatime Stats(Last 7 Days)](https://github-readme-stats.vercel.app/api/wakatime?username=Xand3rx&layout=compact&&theme=default&link="https://www.github.com/Xand3rxx/)](https://wakatime.com/@Xand3rx)
+[![Xand3rxx's Wakatime Stats(Last 7 Days)](https://github-readme-stats.vercel.app/api/wakatime?username=Xand3rx)](https://github.com/Xand3rxx/github-readme-stats)
 
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Xand3rxx&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
