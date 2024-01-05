@@ -73,8 +73,8 @@
 
 ## Profile Visitors
 
-![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=Xand3rxx.Xand3rxx)
-
+<!-- ![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=Xand3rxx.Xand3rxx) -->
+[![Profile Visitors](https://visitcount.itsvg.in/api?id=Xand3rxx&icon=0&color=0)](https://visitcount.itsvg.in)
 <!---
 Xand3rxx/Xand3rxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
