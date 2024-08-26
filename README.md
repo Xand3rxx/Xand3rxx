@@ -55,7 +55,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xand3rxx&layout=compact&bg_color=0,232526,414345&icon_color=ffffff&title_color=ffffff&text_color=ffffff&line_height=30&v=5" alt="Xand3rxx's Stats" />
 </a>
 
-<!-- ![Xand3rxx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xand3rxx&show_icons=true&theme=radical) -->
+<!-- ![Xand3rxx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xand3rxx&show_icons=true&theme=radical) --> <br />
 
 [![Xand3rxx's Wakatime Stats(Last 7 Days)](https://github-readme-stats.vercel.app/api/wakatime?username=Xand3rx)](https://github.com/Xand3rxx/github-readme-stats)
 
