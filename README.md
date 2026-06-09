@@ -72,7 +72,7 @@
     <br />
 </div> -->
 
-![Xand3rxx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xand3rxx&show_icons=true&theme=radical)
+![Xand3rxx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xand3rxx&show_icons=true&theme=dracula&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 <br>
 
