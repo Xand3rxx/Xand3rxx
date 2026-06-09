@@ -8,7 +8,8 @@
 
 <!-- <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="anthony-joboy-aa4b16181" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ng.linkedin.com/in/anthony-joboy-aa4b16181?trk=profile-badge">Anthony Joboy</a></div> -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/anthony-joboy-aa4b16181/)
+
+<!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/anthony-joboy-aa4b16181/) -->
               
 
 ## 🗂️ Languages and Tools
@@ -18,11 +19,14 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/facebook/react-native-website/main/website/static/img/logo.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nextjs/nextjs.png"></code>
@@ -52,18 +56,34 @@
 ## 📈 Stats
 *NOTE: My most used languages do not indicate my skill level, it is a Github metric of which languages I have the most in my __**public repositories**__ on Github*
 
+<br><br>
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xand3rxx&layout=compact&bg_color=0,232526,414345&icon_color=ffffff&title_color=ffffff&text_color=ffffff&line_height=30&v=5" alt="Xand3rxx's Stats" />
 </a>
 
-<!-- ![Xand3rxx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xand3rxx&show_icons=true&theme=radical) --> <br />
+<br><br>
+<!-- ![Xand3rxx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xand3rxx&show_icons=true&theme=radical) -->
 
 [![Xand3rxx's Wakatime Stats(Last 7 Days)](https://github-readme-stats.vercel.app/api/wakatime?username=Xand3rx)](https://github.com/Xand3rxx/github-readme-stats)
 
-<div align="center">
+<br><br>
+
+<!-- <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Xand3rxx&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
     <br />
-</div>
+</div> -->
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Xand3rxx&show_icons=true&theme=github_dark&hide_border=true" />
+</p>
+
+<br><br>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Xand3rxx&theme=github-dark-blue&hide_border=true" />
+</p>
+
+<br><br>
 
 ## 🔗 Links
 
