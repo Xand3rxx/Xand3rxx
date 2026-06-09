@@ -72,9 +72,13 @@
     <br />
 </div> -->
 
-<p align="center">
+![Xand3rxx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xand3rxx&show_icons=true&theme=radical)
+
+<br>
+
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Xand3rxx&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
+</p> -->
 
 <br>
 
