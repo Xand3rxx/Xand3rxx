@@ -2,12 +2,13 @@
 
 - 👋 Hi, I’m Anthony O. Joboy (@Xand3rxx) A Senior Full-Stack Web Developer with honed skills in HTML, CSS, jQuery, Vue.js, Next.js PHP, Laravel...
 - 👀 I’m interested in solving problems using technology.
-<!-- 🌱 I’m currently learning Vue.js, React, Next.js, and Prisma. -->
-- 💞️ I’m looking to collaborate on Laravel, PHP, Vue.js, React, Next.js WordPress projects.
+- 🌱 I'm currently learning NestJS for backend development with Node.js.
+- 💞️ I’m looking to collaborate on PHP, Laravel, Vue.js, React, Next.js, React Native, and WordPress projects.
 - 📫 You can reach me at anthonyjoboy2016@gmail.com
 
 <!-- <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="anthony-joboy-aa4b16181" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ng.linkedin.com/in/anthony-joboy-aa4b16181?trk=profile-badge">Anthony Joboy</a></div> -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/anthony-joboy-aa4b16181/)
               
 
 ## 🗂️ Languages and Tools
@@ -24,7 +25,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nextjs/nextjs.png"></code> -->
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nextjs/nextjs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/prisma/prisma.png"></code> -->
 
@@ -74,7 +75,8 @@
 ## Profile Visitors
 
 <!-- ![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=Xand3rxx.Xand3rxx) -->
-[![Profile Visitors](https://visitcount.itsvg.in/api?id=Xand3rxx&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- [![Profile Visitors](https://visitcount.itsvg.in/api?id=Xand3rxx&icon=0&color=0)](https://visitcount.itsvg.in) -->
+![Profile Visitors](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FXand3rxx&label=Visitors)
 <!---
 Xand3rxx/Xand3rxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
