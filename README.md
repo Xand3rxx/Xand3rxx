@@ -1,6 +1,6 @@
 ## 🚀 About Me
 
-- 👋 Hi, I’m Anthony O. Joboy (@Xand3rxx) A Senior Full-Stack Web Developer with honed skills in HTML, CSS, jQuery, Vue.js, Next.js PHP, Laravel...
+- 👋 Hi, I’m Anthony O. Joboy (@Xand3rxx) A Senior Full-Stack Web Developer with honed skills in Laravel (PHP), CSS3, React, Vue.js, Next.js, React Native ...
 - 👀 I’m interested in solving problems using technology.
 - 🌱 I'm currently learning NestJS for backend development with Node.js.
 - 💞️ I’m looking to collaborate on PHP, Laravel, Vue.js, React, Next.js, React Native, and WordPress projects.
@@ -75,6 +75,8 @@
 ![Xand3rxx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xand3rxx&show_icons=true&theme=dracula&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 <br>
+
+![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=Xand3rxx&hide_border=true)
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Xand3rxx&show_icons=true&theme=github_dark&hide_border=true" />
