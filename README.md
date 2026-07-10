@@ -88,7 +88,7 @@
 
 <br>
 
-![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=Xand3rxx&hide_border=true)
+<-- ![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=Xand3rxx&hide_border=true) -->
 
 <br>
 
