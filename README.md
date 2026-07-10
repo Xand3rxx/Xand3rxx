@@ -63,29 +63,32 @@
 <br><br>
 <!-- ![Xand3rxx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xand3rxx&show_icons=true&theme=radical) -->
 
-<!-- Wakatime Stats -->
-[![Xand3rxx's Wakatime Stats](https://vercel.app)](https://github.com/Xand3rxx/github-readme-stats)
+<!-- Wakatime Stats (Using stable alternative instance) -->
+<p align="center">
+  <a href="https://github.com">
+    <img src="https://vercel.app" alt="Xand3rxx's Wakatime Stats" />
+  </a>
+</p>
 
 <br>
 
 <!-- GitHub Profile Trophies -->
 <div align="center">
     <img src="https://vercel.app" alt="profile trophies" />
-    <br />
 </div>
 
 <br>
 
-<!-- GitHub Stats -->
+<!-- GitHub Stats (Using stable alternative instance) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Xand3rxx&show_icons=true&theme=dracula&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+  <img src="https://vercel.app" alt="Xand3rxx's GitHub stats" />
 </p>
 
 <br>
 
-<!-- GitHub Streak Stats -->
+<!-- GitHub Streak Stats (Using alternative domain) -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Xand3rxx&theme=github-dark-blue&hide_border=true" />
+  <img src="https://vercel.app" alt="GitHub Streak Stats" />
 </p>
 
 <br>
