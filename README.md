@@ -76,8 +76,6 @@
 
 <br>
 
-![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=Xand3rxx&hide_border=true)
-
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Xand3rxx&show_icons=true&theme=github_dark&hide_border=true" />
 </p> -->
@@ -87,6 +85,10 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Xand3rxx&theme=github-dark-blue&hide_border=true" />
 </p>
+
+<br>
+
+![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=Xand3rxx&hide_border=true)
 
 <br>
 
