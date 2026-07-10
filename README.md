@@ -63,25 +63,27 @@
 <br><br>
 <!-- ![Xand3rxx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xand3rxx&show_icons=true&theme=radical) -->
 
-[![Xand3rxx's Wakatime Stats(Last 7 Days)](https://github-readme-stats.vercel.app/api/wakatime?username=Xand3rx)](https://github.com/Xand3rxx/github-readme-stats)
+<!-- Wakatime Stats -->
+[![Xand3rxx's Wakatime Stats](https://vercel.app)](https://github.com/Xand3rxx/github-readme-stats)
 
 <br>
 
-<!-- <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Xand3rxx&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
+<!-- GitHub Profile Trophies -->
+<div align="center">
+    <img src="https://vercel.app" alt="profile trophies" />
     <br />
-</div> -->
-
-![Xand3rxx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xand3rxx&show_icons=true&theme=dracula&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+</div>
 
 <br>
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Xand3rxx&show_icons=true&theme=github_dark&hide_border=true" />
-</p> -->
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Xand3rxx&show_icons=true&theme=dracula&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+</p>
 
 <br>
 
+<!-- GitHub Streak Stats -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Xand3rxx&theme=github-dark-blue&hide_border=true" />
 </p>
